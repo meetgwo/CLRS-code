@@ -10,13 +10,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../CLRS-code/sorting/MergeSort.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+            <state relative-caret-position="80">
+              <caret line="13" selection-start-line="13" selection-end-line="16" selection-end-column="5" />
               <folding>
                 <element signature="e#14#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../CLRS-code/divide-and-conquer/MaxSubarray.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="78" column="14" selection-start-line="78" selection-start-column="14" selection-end-line="78" selection-end-column="14" />
+              <folding>
+                <element signature="e#14#44#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -25,7 +37,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file:///usr/local/go/src/fmt/print.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
+            <state relative-caret-position="-1740">
               <caret line="211" column="5" selection-start-line="211" selection-start-column="5" selection-end-line="211" selection-end-column="5" />
             </state>
           </provider>
@@ -34,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file:///usr/local/go/src/builtin/builtin.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-942">
-              <caret line="188" column="5" selection-start-line="188" selection-start-column="5" selection-end-line="188" selection-end-column="5" />
+            <state relative-caret-position="222">
+              <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -70,8 +82,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../CLRS-code/sorting/InsertionSort.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="22" column="8" selection-start-line="22" selection-end-line="23" />
+            <state relative-caret-position="160">
+              <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
               <folding>
                 <element signature="e#14#52#0" expanded="true" />
               </folding>
@@ -91,8 +103,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file:///usr/local/go/src/math/rand/rand.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6520">
-              <caret line="326" column="13" selection-start-line="326" selection-start-column="13" selection-end-line="326" selection-end-column="13" />
+            <state relative-caret-position="135">
+              <caret line="304" column="58" selection-start-line="304" selection-start-column="52" selection-end-line="304" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -112,6 +124,7 @@
       <list>
         <option value="$PROJECT_DIR$/sorting/InsertionSort.go" />
         <option value="$PROJECT_DIR$/sorting/MergeSort.go" />
+        <option value="$PROJECT_DIR$/../CLRS-code/divide-and-conquer/MaxSubarray.go" />
       </list>
     </option>
   </component>
@@ -132,6 +145,11 @@
             <path>
               <item name="suanfaDL" type="b2602c69:ProjectViewProjectNode" />
               <item name="CLRS-code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="suanfaDL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CLRS-code" type="462c0819:PsiDirectoryNode" />
+              <item name="divide-and-conquer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="suanfaDL" type="b2602c69:ProjectViewProjectNode" />
@@ -166,7 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build MergeSort.go">
+  <component name="RunManager" selected="Go Build.go build MaxSubarray.go">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="CLRS-code" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -181,6 +199,14 @@
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/sorting/InsertionSort.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build MaxSubarray.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="CLRS-code" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/../CLRS-code/divide-and-conquer/MaxSubarray.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -204,6 +230,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build MaxSubarray.go" />
         <item itemvalue="Go Build.go build MergeSort.go" />
         <item itemvalue="Go Build.go build InsertionSort.go" />
       </list>
@@ -211,14 +238,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1008" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32122588" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.38592508" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23723042" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24858116" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -272,13 +300,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/go/src/math/rand/rand.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6520">
-          <caret line="326" column="13" selection-start-line="326" selection-start-column="13" selection-end-line="326" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/local/go/src/runtime/panic.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
@@ -293,24 +314,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/go/src/builtin/builtin.go">
+    <entry file="file:///usr/local/go/src/fmt/print.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-942">
-          <caret line="188" column="5" selection-start-line="188" selection-start-column="5" selection-end-line="188" selection-end-column="5" />
+        <state relative-caret-position="-1740">
+          <caret line="211" column="5" selection-start-line="211" selection-start-column="5" selection-end-line="211" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/go/src/fmt/print.go">
+    <entry file="file:///usr/local/go/src/builtin/builtin.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="211" column="5" selection-start-line="211" selection-start-column="5" selection-end-line="211" selection-end-column="5" />
+        <state relative-caret-position="222">
+          <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/math/rand/rand.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="304" column="58" selection-start-line="304" selection-start-column="52" selection-end-line="304" selection-end-column="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../CLRS-code/sorting/InsertionSort.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="22" column="8" selection-start-line="22" selection-end-line="23" />
+        <state relative-caret-position="160">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
           <folding>
             <element signature="e#14#52#0" expanded="true" />
           </folding>
@@ -319,10 +347,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../CLRS-code/sorting/MergeSort.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        <state relative-caret-position="80">
+          <caret line="13" selection-start-line="13" selection-end-line="16" selection-end-column="5" />
           <folding>
             <element signature="e#14#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CLRS-code/divide-and-conquer/MaxSubarray.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="78" column="14" selection-start-line="78" selection-start-column="14" selection-end-line="78" selection-end-column="14" />
+          <folding>
+            <element signature="e#14#44#0" expanded="true" />
           </folding>
         </state>
       </provider>
